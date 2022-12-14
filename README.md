@@ -1,7 +1,7 @@
 ## Kovid
 Project is for Health Domain
-- Project Link:
-- Demo Video Link:
+- Project Link:https://jolly-smoke-0bdc6e600.2.azurestaticapps.net/
+- Demo Video Link:https://www.youtube.com/watch?v=dTdYeMkX34s
 ## Home
 ![1](https://user-images.githubusercontent.com/115055314/207531856-481814f8-500c-483f-aa3c-7b4a5c9f140e.png)
 ## About
